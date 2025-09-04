@@ -1,3 +1,4 @@
 Kenya: Nairobo
-Germany: Berlin
+Germany: Munich
 Ghana: Accra
+
