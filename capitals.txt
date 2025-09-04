@@ -1,3 +1,3 @@
-Kenya: Nairobi
-Germany: Berlina
+Kenya: Nairobo
+Germany: Berlin
 Ghana: Accra
